@@ -1,0 +1,213 @@
+.button{
+    padding: 25px  40px;  
+    border-radius: 6px;
+    background-color: #1d809f;
+    color: white;
+    border: none;
+  text-decoration: none;
+ }
+ .whitebutton{
+    padding: 25px  40px;  
+    border-radius: 6px;
+    background-color: white;
+    color: black;
+    border: none;
+  text-decoration: none;
+ }
+ .blackbutton{
+    padding: 25px  40px;  
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    border: none;
+  text-decoration: none;
+ }
+
+
+.background{
+    background: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh; 
+    display: flex;
+  
+}
+.textcenter{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+
+}
+
+
+.mobilemenu{
+    position: fixed;
+    top: 2%;
+    left: 95%;
+    background-color: rgba(0, 0, 0, 0.341);
+    border-radius: 6px;
+    
+    
+}
+
+.menuIcon{
+    font-size: 20px;
+    padding: 4px;
+    color: white;
+}
+
+.heading1{
+    font-size: 90px;
+    margin-bottom: 0;
+}
+.heading3{
+    margin-top: 0;
+    font-size: 32px;
+    margin-bottom: 60px;
+
+}
+
+.heading2{
+    line-height: 1.2;
+    font-weight: 700;
+}
+.blackButton{
+    padding: 25px  40px;  
+    border-radius: 6px;
+    background-color: #212529;
+    color: white;
+    border: none;
+    text-decoration: none;
+ 
+}
+
+.ptext{
+    margin-bottom: 60px;
+    font-size: 20px;
+}
+
+
+.offerbackground{
+    background-color: #1d809f;
+    padding: 80px;
+    margin-top: 120px;
+
+}
+
+.offersectioncontainer{
+    text-align: center;
+
+}
+
+.offerList{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.offerListSpan{
+    background-color: white;
+    border-radius: 50%;
+    padding: 40px;
+}
+
+.firstwhitetext{
+    margin-top: 50px;
+    margin-bottom: 0;
+    color: white;
+}
+.secondwhitetext{
+    margin-top: 0px;
+    color: white;
+}
+.offerIcon{
+    font-size: 25px;
+    
+}
+.servicesText{
+    color: orange;
+}
+.title{
+    margin-bottom: 80px;
+    color: white;
+    
+}
+
+
+.welcomeBackground {
+    background: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+}
+
+
+.headingWelcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left:500px;
+    font-size: 50px;
+    margin-top: 200px;
+}
+
+
+.Welcomebutton{
+    padding: 25px  40px;  
+    border-radius: 6px;
+    background-color: #1d809f;
+    color: white;
+    border: none;
+   
+  text-decoration: none;
+
+}
+.recentsection{
+    padding: 90px;
+}
+.firstsection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card{
+    position:relative ;   
+    transition: transform 0.3s ease-in-out; 
+                      
+    
+}
+.card:hover{
+    transform: scale(0.8) 
+    
+    
+
+}
+
+.cardtext{
+    position: absolute;
+    top:60%;
+    right: 20%;
+    font-size: 25px;
+
+}
+
+.footerList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.footerListSpan{
+    background-color: #1d809f;
+    padding: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.footertext{
+    text-align: center;
+    margin-top: 50px;
+}
